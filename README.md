@@ -38,10 +38,31 @@ let romesdev = {
 module.exports = romesdev
 ```
 
+[![Spotify](https://novatorem-five-iota.vercel.app/api/spotify)](https://open.spotify.com/user/fs.romes)
+
+
+<!-- 
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://medium.com/@zluvsand">
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/romes-filho/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
+
+
 <!-- class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript','Python', 'Java', 'C++', 'PHP']
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL']
   libs_and_frameworks = ['Node.js','Express', 'Laravel', 'Moongose', 'Sequelize', 'React']
 } -->
  
- 
+  -->
