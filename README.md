@@ -26,8 +26,6 @@ let romesdev = {
          filiation    : 'VTEX Lab and UFC'
          location     : 'Ceará, Brazil'
       } 
- 
-
 }
 
 module.exports = romesdev
