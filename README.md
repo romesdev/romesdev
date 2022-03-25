@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ```js
 import SoftwareEngineer from 'romesdev';
 
-class Bio extends SoftwareEngineer {
+class Bio extends SoftwareDeveloper {
   name         = 'Romes Filho'
-  description  = 'Software Engineer and researcher'
+  description  = 'Software developer and researcher'
   filiation    = 'VTEX Lab and UFC'
   location     = 'Ceará, Brazil'
 }
