@@ -38,6 +38,12 @@ let romesdev = {
 module.exports = romesdev
 ```
 
+<div align="center">
+  <a href="https://github.com/romesdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romesdevv46&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romesdev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <!-- [![Spotify](https://novatorem-pzu91oa7t-romesdev.vercel.app/api/spotify)](https://open.spotify.com/user/fs.romes)
  -->
 
