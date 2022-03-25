@@ -38,7 +38,7 @@ let romesdev = {
 module.exports = romesdev
 ```
 
-[![Spotify](https://novatorem-romesdev.vercel.app/api/spotify)](https://open.spotify.com/user/fs.romes)
+[![Spotify](https://novatorem-pzu91oa7t-romesdev.vercel.app/api/spotify)](https://open.spotify.com/user/fs.romes)
 
 
 <!-- 
