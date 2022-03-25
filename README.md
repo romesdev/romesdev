@@ -30,7 +30,7 @@ let romesdev = {
            languages  : ['JavaScript','Python', 'Java', 'C++', 'PHP'],
            databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
            libsAndFrameworks: [,'Express', 'Laravel', 'Moongose', 'Sequelize', 'React'],
-           plataforms : ['Node.js', 'Firebase', 'Git'],
+           platforms : ['Node.js', 'Firebase', 'Git'],
            tools : ['VScode', 'Postman']
   }
 }
