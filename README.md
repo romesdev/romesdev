@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **romesdev/romesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Romes, Romes Filho! 👋
+
+```js
+import SoftwareEngineer from 'romesdev';
+
+class Bio extends SoftwareEngineer {
+  name         = 'Romes Filho'
+  description  = 'Software Engineer and researcher'
+  filiation    = 'VTEX Lab and UFC'
+  location     = 'Ceará, Brazil'
+}
+```
+
+
+<!-- class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript','Python', 'Java', 'C++', 'PHP']
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL']
+  libs_and_frameworks = ['Node.js','Express', 'Laravel', 'Moongose', 'Sequelize', 'React']
+} -->
+ 
+ 
