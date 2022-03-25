@@ -20,12 +20,19 @@ Here are some ideas to get you started:
 
 ```js
 let romesdev = {
-  bio : {
+  bio   : {
          name         : 'Romes Filho',
          description  : 'Software developer and researcher',
          filiation    : 'VTEX Lab and UFC',
          location     : 'Ceará, Brazil'
-      } 
+        },
+  skills: {
+           languages  : ['JavaScript','Python', 'Java', 'C++', 'PHP'],
+           databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
+           libsAndFrameworks: [,'Express', 'Laravel', 'Moongose', 'Sequelize', 'React'],
+           plataforms : ['Node.js', 'Firebase', 'Git'],
+           tools : ['VScode', 'Postman']
+  }
 }
 
 module.exports = romesdev
