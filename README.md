@@ -17,17 +17,21 @@ Here are some ideas to get you started:
 
 ## I'm Romes, Romes Filho! 👋
 
+
 ```js
-import SoftwareDeveloper from 'romesdev';
+let romesdev = {
+  bio : {
+         name         : 'Romes Filho'
+         description  : 'Software developer and researcher'
+         filiation    : 'VTEX Lab and UFC'
+         location     : 'Ceará, Brazil'
+      } 
+ 
 
-class Bio extends SoftwareDeveloper {
-  name         = 'Romes Filho'
-  description  = 'Software developer and researcher'
-  filiation    = 'VTEX Lab and UFC'
-  location     = 'Ceará, Brazil'
 }
-```
 
+module.exports = romesdev
+```
 
 <!-- class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript','Python', 'Java', 'C++', 'PHP']
