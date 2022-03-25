@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm Romes, Romes Filho! 👋
 
 ```js
-import SoftwareEngineer from 'romesdev';
+import SoftwareDeveloper from 'romesdev';
 
 class Bio extends SoftwareDeveloper {
   name         = 'Romes Filho'
