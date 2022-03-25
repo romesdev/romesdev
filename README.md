@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ```js
 let romesdev = {
   bio : {
-         name         : 'Romes Filho'
-         description  : 'Software developer and researcher'
-         filiation    : 'VTEX Lab and UFC'
+         name         : 'Romes Filho',
+         description  : 'Software developer and researcher',
+         filiation    : 'VTEX Lab and UFC',
          location     : 'Ceará, Brazil'
       } 
 }
