@@ -29,7 +29,7 @@ let romesdev = {
   skills: {
             languages  : ['JavaScript','Python', 'Java', 'C++', 'PHP'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: [,'Express', 'Laravel', 'Moongose', 'Sequelize', 'React'],
+            libsAndFrameworks: ['Express', 'Laravel', 'Moongose', 'Sequelize', 'React'],
             platforms : ['Node.js', 'Firebase', 'Git'],
             tools : ['VScode', 'Postman']
         }
