@@ -23,7 +23,7 @@ let romesdev = {
   bio   : {
             name         : 'Romes Filho',
             description  : 'Software developer and researcher',
-            filiation    : 'VTEX Lab and UFC',
+            association  : 'VTEX Lab and UFC',
             location     : 'Ceará, Brazil'
         },
   skills: {
