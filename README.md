@@ -27,7 +27,7 @@ let romesdev = {
             location     : 'Ceará, Brazil'
         },
   skills: {
-            languages  : ['JavaScript','Python', 'Java', 'C++', 'PHP'],
+            languages  : ['JavaScript','TypeScript, 'Python', 'Java', 'C++', 'PHP'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
             libsAndFrameworks: ['Express', 'Laravel', 'Moongose', 'Sequelize', 'React'],
             platforms : ['Node.js', 'Firebase', 'Git'],
