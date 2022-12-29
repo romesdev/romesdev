@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 let romesdev = {
   bio   : {
             name         : 'Romes Filho',
-            description  : 'Software developer and researcher',
+            description  : 'Software engineer and researcher',
             association  : 'VTEX Lab and UFC',
             location     : 'Ceará, Brazil'
         },
