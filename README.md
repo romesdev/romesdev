@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ```js
-let romesdev = {
+const romesdev = {
   bio   : {
             name         : 'Romes Filho',
             description  : 'Software engineer and researcher',
