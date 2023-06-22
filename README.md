@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ```js
-const romesdev = {
+export const romesdev = {
   bio   : {
             name         : 'Romes Filho',
             description  : 'Software engineer and researcher',
@@ -29,13 +29,11 @@ const romesdev = {
   skills: {
             languages  : ['JavaScript','TypeScript', 'Python', 'Java', 'C++', 'PHP'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: ['React', 'Express', 'Laravel', 'Apollo GraphQL', 'Moongose', 'Sequelize'],
+            libsAndFrameworks: ['React', 'Vtex IO' 'Express', 'Laravel', 'Apollo GraphQL', 'Jest', 'Moongose', 'Sequelize'],
             platforms : ['Node.js', 'Firebase', 'Git'],
             tools : ['VScode', 'Postman']
         }
 }
-
-module.exports = romesdev
 ```
 
 <!-- <div align="center">
