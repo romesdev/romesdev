@@ -29,7 +29,7 @@ export const romesdev = {
   skills: {
             languages  : ['JavaScript','TypeScript', 'Python', 'Java', 'C++', 'PHP'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: ['React', 'Vtex IO' 'Express', 'Laravel', 'Apollo GraphQL', 'Jest', 'Moongose', 'Sequelize'],
+            libsAndFrameworks: ['React', 'Vtex IO' 'Express', 'Laravel','NestJS', 'Apollo GraphQL', 'Jest'],
             platforms : ['Node.js', 'Firebase', 'Git'],
             tools : ['VScode', 'Postman']
         }
