@@ -23,13 +23,13 @@ export const romesdev = {
   bio   : {
             name         : 'Romes Filho',
             description  : 'Software engineer and researcher',
-            association  : 'VTEX Lab and UFC',
+            association  : 'Inbox AC and UFC',
             location     : 'Ceará, Brazil'
         },
   skills: {
-            languages  : ['JavaScript','TypeScript', 'Python', 'Java', 'C++', 'PHP'],
+            languages  : ['JavaScript','TypeScript', 'Python', 'Java', 'C++', 'PHP', 'Golang'],
             databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: ['React', 'Vtex IO' 'Express', 'Laravel','NestJS', 'Apollo GraphQL', 'Jest'],
+            libsAndFrameworks: ['React', 'Vtex IO', 'Nest.JS', 'Express', 'Laravel', 'Apollo GraphQL', 'Jest', 'Vitest'],
             platforms : ['Node.js', 'Firebase', 'Git'],
             tools : ['VScode', 'Postman']
         }
