@@ -23,7 +23,6 @@ export const romesdev = {
   bio   : {
             name         : 'Romes Filho',
             description  : 'Software engineer and researcher',
-            association  : 'Inbox AC and UFC',
             location     : 'Ceará, Brazil'
         },
   skills: {
