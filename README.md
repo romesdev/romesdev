@@ -18,21 +18,40 @@ Here are some ideas to get you started:
 ## I'm Romes, Romes Filho! 👋
 
 
-```js
+```ts
 export const romesdev = {
-  bio   : {
-            name         : 'Romes Filho',
-            description  : 'Software engineer and researcher',
-            location     : 'Ceará, Brazil'
-        },
+  bio: {
+    name: 'Romes Filho',
+    description: 'Software developer and researcher',
+    association: 'Corebiz',
+    location: 'Ceará, Brazil',
+  },
   skills: {
-            languages  : ['JavaScript','TypeScript', 'Python', 'Java', 'C++', 'PHP', 'Golang'],
-            databases  : ['MySQL', 'MongoDB', 'PostgreSQL'],
-            libsAndFrameworks: ['React', 'Vtex IO', 'Nest.JS', 'Express', 'Laravel', 'Apollo GraphQL', 'Jest', 'Vitest'],
-            platforms : ['Node.js', 'Firebase', 'Git'],
-            tools : ['VScode', 'Postman']
-        }
-}
+    languages: [
+      'JavaScript',
+      'TypeScript',
+      'Python',
+      'Java',
+      'C++',
+      'PHP',
+      'Golang',
+    ],
+    databases: ['MySQL', 'MongoDB', 'PostgreSQL'],
+    libsAndFrameworks: [
+      'React',
+      'Vtex IO',
+      'Nest.JS',
+      'Express',
+      'Laravel',
+      'Apollo GraphQL',
+      'Jest',
+      'Vitest',
+    ],
+    platforms: ['Node.js', 'Firebase', 'Git'],
+    tools: ['VScode', 'Postman'],
+  },
+};
+
 ```
 
 <!-- <div align="center">
